@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "checked": false,
+      "item": "oil 2kg"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Juice"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "Lays"
+    }
+  ]
+}
